@@ -21,7 +21,7 @@
       "@v1/*": ["api/v1/*"],
       "@utils/*": ["utils/*"],
       "@services/*": ["services/*"],
-      "@__tests__/*": ["__tests__/*"]
+      "@__integration_tests__/*": ["__integration_tests__/*"]
     }
   }
 }
